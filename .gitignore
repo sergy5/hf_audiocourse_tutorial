@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# Dependencies managed by Poetry/Hatch
+# Poetry's lock file (if you don't want to commit it, though often it's recommended to)
+poetry.lock
+
+# Hatch's environment directory
+.hatch/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.bak
