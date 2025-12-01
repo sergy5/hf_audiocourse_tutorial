@@ -20,4 +20,3 @@ pip install uv
 uv pip install -r requirements.txt 
 ```
 
-`deepseek-api-key sk-f3fe20500f4c46d1adcab8d15e148964`
